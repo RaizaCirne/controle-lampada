@@ -98,7 +98,7 @@ X dias para concluir o curso
 Clone este repositório usando o comando:
 
 ```bash
-git clone 
+git clone https://github.com/RaizaCirne/python3-mundo2-guanabara.git
 ```
 
 <br />
