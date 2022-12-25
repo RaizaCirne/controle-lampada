@@ -1,1 +1,1 @@
-console.log("Legal 2");
+console.log("Legal!!!");
