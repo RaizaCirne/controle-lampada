@@ -1,4 +1,4 @@
-let temDinheiro = true; 
+let temDinheiro = false; 
 let estaEnsolarado = false; 
 
 let resultadoE = 'Vai pro shopping? ';
