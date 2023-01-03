@@ -1,6 +1,6 @@
 let temDinheiro = false;
-let estaEnsolarado = false;
-let carroEstaNaGaragem = true;
+let estaEnsolarado = true;
+let carroEstaNaGaragem = false;
 
 let resultadoE = "#1 - Vai pro shopping? ";
 resultadoE += temDinheiro && estaEnsolarado;
