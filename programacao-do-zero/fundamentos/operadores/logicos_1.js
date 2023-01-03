@@ -15,3 +15,5 @@ console.log(true !== false);
 console.log(false !== true);
 console.log(false !== false);
 
+console.log("Não verdadeiro: " + !true); // operador unário
+console.log("Não falso: " + !false); // operador unário
