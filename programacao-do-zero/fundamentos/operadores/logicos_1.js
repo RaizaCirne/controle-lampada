@@ -1,7 +1,11 @@
-let temDinheiro = false; 
-let estaEnsolarado = true; 
+let temDinheiro = false;
+let estaEnsolarado = true;
+let carroEstaNaGaragem = true;
 
-let resultadoE = 'Vai pro shopping? ';
+let resultadoE = "#1 - Vai pro shopping? ";
 resultadoE += temDinheiro && estaEnsolarado;
 console.log(resultadoE);
 
+let resultadoOU = "#2 - Vai pro shopping? ";
+resultadoOU += estaEnsolarado || carroEstaNaGaragem; 
+console.log(resultadoOU);
