@@ -1,5 +1,5 @@
 let temDinheiro = false;
-let estaEnsolarado = true;
+let estaEnsolarado = false;
 let carroEstaNaGaragem = true;
 
 let resultadoE = "#1 - Vai pro shopping? ";
