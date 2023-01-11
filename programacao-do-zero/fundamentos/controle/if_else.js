@@ -1,12 +1,14 @@
 const verdadeira = true; 
 const falsa = false;
 
-if (verdadeira) 
+if (verdadeira) {
   console.log("Exec...");
-else 
+} else 
   console.log("Não exec...");
 
 if (falsa)
   console.log("Não exec...");
-else
+else {
   console.log("Exec...");
+}
+  
