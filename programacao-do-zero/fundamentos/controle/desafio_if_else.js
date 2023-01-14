@@ -1,9 +1,17 @@
-const a = 10; 
-const b = 20; 
-const operacao = '*'; // + = * / % 
+const a = 10;
+const b = 20;
+const operacao = "*"; // + = * / %
 
-let resultado; 
+let resultado;
 
-// if ... else if ... else 
+if (a > 2 * b) {
+  resultado = "Falso";
+} else if (a < 2 * b) {
+  resultado = "Verdadeiro";
+} else if (a == b) {
+  resultado = "Falso";
+} else {
+  resultado = "Verdadeiro";
+}
 
-console.log(resultado); 
+console.log(resultado);
