@@ -10,3 +10,9 @@ function bomDia() {
 
 executar(3);
 executar(bomDia); // <-- Central da aula
+
+const x = bomDia;
+const y = bomDia();
+
+console.log(x());
+console.log(y);
