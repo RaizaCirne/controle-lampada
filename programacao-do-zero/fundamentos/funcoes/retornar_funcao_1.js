@@ -11,4 +11,4 @@ console.log(retornaUmaFuncao());
 console.log(retornaUmaFuncao()());
 
 const umaFuncao = retornaUmaFuncao();
-console.log(umaFuncao);
+console.log(umaFuncao());
