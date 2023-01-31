@@ -1,5 +1,16 @@
-const numeros = [1, 2, 3, 4, 5, 6];
+const numeros = [1, 2, 356, 4, 5, 6, 11, 45];
 
-for (let i = 0; i < 6; i++) {
+// Percorrendo todos os elementos do array
+for (let i = 0; i < numeros.length; i++) {
+  console.log(numeros[i]);
+}
+
+// Percorrendo elementos do array de 2 em 2
+for (let i = 0; i < numeros.length; i += 2) {
+  console.log(numeros[i]);
+}
+
+// Percorrendo elementos do array a partir do índice 1
+for (let i = 1; i < numeros.length; i++) {
   console.log(numeros[i]);
 }
