@@ -14,5 +14,5 @@ console.log(numeros.includes(6)); // Resultado será verdadeiro, pois 6 está in
 console.log(numeros.join(" - ")); // Junta todos os elementos do array a partir de um determinado símbolo 
 console.log(numeros); // Mostra o valor completo do array
 
-const numeros2 = numeros.concat(7, 8, 9); // Gera um outro array e conseguimos concatenar mais elementos dentro do array 
+const numeros2 = numeros.concat(7, 8, 9); // Gera um outro array e conseguimos concaten ar mais elementos dentro do array 
 console.log(numeros2); // Mostra o novo array gerado concatenando com o array anterior
