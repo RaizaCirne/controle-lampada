@@ -14,8 +14,8 @@ console.log(produto["preco"]); // //Acessando o atributo preço dentro do objeto
 console.log(produto["desconto"]); // //Acessando o atributo desconto dentro do objeto
 
 console.log(produto.nome); //Acessando atributo dentro do objeto através da notação ponto -> é mais usado
-console.log(produto.preco);  //Acessando atributo dentro do objeto através da notação ponto -> mais usado
-console.log(produto.desconto); 
+console.log(produto.preco); //Acessando atributo dentro do objeto através da notação ponto -> mais usado
+console.log(produto.desconto); //Acessando atributo dentro do objeto através da notação ponto -> mais usado
 
 //Verificando o tipo da constante produto: tipo objeto
 console.log(typeof produto);
