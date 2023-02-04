@@ -9,13 +9,15 @@ const produto = {
 
 console.log(numeros[0]); //Acessando elemento 10 dentro do array
 
-console.log(produto["nome"]); //Acessando o atributo nome dentro do objeto
-console.log(produto["preco"]); // //Acessando o atributo preço dentro do objeto
-console.log(produto["desconto"]); // //Acessando o atributo desconto dentro do objeto
+//Acessando o atributo dentro do objeto
+console.log(produto["nome"]); 
+console.log(produto["preco"]); 
+console.log(produto["desconto"]); 
 
-console.log(produto.nome); //Acessando atributo dentro do objeto através da notação ponto -> é mais usado
-console.log(produto.preco); //Acessando atributo dentro do objeto através da notação ponto -> mais usado
-console.log(produto.desconto); //Acessando atributo dentro do objeto através da notação ponto -> mais usado
+//Acessando atributo dentro do objeto através da notação ponto -> é mais usado
+console.log(produto.nome); 
+console.log(produto.preco); 
+console.log(produto.desconto); 
 
 //Verificando o tipo da constante produto: tipo objeto
 console.log(typeof produto);
