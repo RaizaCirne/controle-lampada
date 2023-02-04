@@ -1,5 +1,4 @@
-let x = 3;
-let y = []; //definindo um array
+let x = {};
 
 //Verificando se é ou não um array
-console.log(Array.isArray(y));
+console.log(Array.isArray(x));
