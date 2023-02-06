@@ -3,9 +3,9 @@ let fn = function () {};
 const produto = {
   nome: "iPad",
   preco: 5600,
-  desconto: 0.15,
+  desconto: 0.5,
   precoComDesconto: function () {
-    return preco * (1 - desconto); 
+    return this.preco * (1 - this.desconto); 
 
   }
 };
