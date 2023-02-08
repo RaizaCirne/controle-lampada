@@ -1,29 +1,17 @@
-const d1 = {
-  dia: 9,
-  mes: 10,
-  ano: 2010,
-  exibir: function () {
-    return `${this.dia}/${this.mes}/${this.ano}`;
-  },
-};
+function criarData(dia, mes, ano) {
+  return {
+    dia: dia,
+    mes: mes,
+    ano: ano,
+    exibir: function () {
+      return `${this.dia}/${this.mes}/${this.ano}`;
+    },
+  };
+}
 
-const d2 = {
-  dia: 22,
-  mes: 11,
-  ano: 2023,
-  exibir: function () {
-    return `${this.dia}/${this.mes}/${this.ano}`;
-  },
-};
-
-const d3 = {
-  dia: 3,
-  mes: 4,
-  ano: 2022,
-  exibir: function () {
-    return `${this.dia}/${this.mes}/${this.ano}`;
-  },
-};
+const d1 = criarData(09, 10, 2010);
+const d2 = criarData(22, 11, 2023);
+const d3 = criarData(03, 04, 2022);
 
 console.log(d1.exibir());
 console.log(d2.exibir());
