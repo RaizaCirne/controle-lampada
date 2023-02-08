@@ -1,9 +1,9 @@
 function criarData(dia, mes, ano) {
   return {
-    dia: dia,
-    mes: mes,
-    ano: ano,
-    exibir: function () {
+    dia,
+    mes,
+    ano,
+    exibir() {
       return `${this.dia}/${this.mes}/${this.ano}`;
     },
   };
