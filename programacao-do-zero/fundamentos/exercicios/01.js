@@ -1,5 +1,5 @@
- function cumprimentar(text) {
-  return "Olá, " + text + "!"
+ function cumprimentar(nome) {
+  return "Olá, " + nome + "!"
 }
 
 console.log(cumprimentar("Leonardo"));
