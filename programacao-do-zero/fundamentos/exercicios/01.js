@@ -1,7 +1,7 @@
- function Cumprimentar(text) {
+ function cumprimentar(text) {
   return "Olá, " + text + "!"
 }
 
-console.log(Cumprimentar("Leonardo"));
-console.log(Cumprimentar("Maria"));
+console.log(cumprimentar("Leonardo"));
+console.log(cumprimentar("Maria"));
 
