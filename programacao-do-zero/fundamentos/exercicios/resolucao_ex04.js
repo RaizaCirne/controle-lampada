@@ -42,7 +42,6 @@ console.log(receberNomeDoMes(11));
 console.log(receberNomeDoMes(12));
 
 // Resolução 02:
-
 function receberNomeDoMes(numero) {
   const mapeamento = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho',
   'agosto', 'setembro', 'outubro', 'novembro', 'dezembro']
