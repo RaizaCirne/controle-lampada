@@ -14,7 +14,7 @@
 
 # Bem-vindo! 👋 <a name="id01"></a>
 
-**Aplicativo Tabuada**
+**Controle de Lâmpada**
 <br />
 
 ## 🚀 Proposta <a name="id02"></a>
