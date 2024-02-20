@@ -5,7 +5,7 @@ const lampada = document.getElementById('lamp');
 const lightUp = document.getElementById('bt-on')
 function on() {
   lightUp.addEventListener('click', () => {
-    lampada.src = '/assets/images/on.jpg';
+    lampada.src = '/assets/images/on.png';
   })
 }
 
@@ -13,7 +13,7 @@ function on() {
 const toSwitchOff = document.getElementById('bt-off'); 
 function off() {
   toSwitchOff.addEventListener('click', () => {
-    lampada.src = '/assets/images/off.jpg';
+    lampada.src = '/assets/images/off.png';
   })
 }
 

@@ -2,4 +2,36 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
+  > body {
+    background-image: url(/assets/images/bg-lamp.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     // Alinhar texto ao centro do navegador
+     display: grid;
+     min-height: 100vh;
+     place-items: center;
+     width: 100%;
+
+     > img {
+      display: block;
+      margin-top: 10rem;
+      width: 18%;
+     }
+
+     > form {
+      > #bt-on, #bt-off, #blink-blink {
+        background-color: #fffecf;
+        color: #000;
+        cursor: pointer;
+        font-size: .9rem;
+        // font-weight: bold;
+        padding: 1rem 4rem;
+        &:hover {
+          opacity: 0.5;
+        }
+      }
+     }
+  }
 }
