@@ -1,7 +1,10 @@
+@import 'mixins';
+
 * {
+  @include border-box;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+
 
   > body {
     background-image: url(/assets/images/bg-lamp.jpg);
@@ -18,6 +21,15 @@
       display: block;
       margin-top: 10rem;
       width: 18%;
+
+      @include d(m) {
+        width: 50%;
+      }
+
+      @include d(t) {
+        width: 35%;
+      }
+
      }
 
      > form {
@@ -27,9 +39,19 @@
         cursor: pointer;
         font-size: .9rem;
         // font-weight: bold;
-        padding: 1rem 4rem;
+        padding: 1.5rem 5rem;
+        font-weight: 600;
         &:hover {
           opacity: 0.5;
+        }
+        @include d(m) {
+          padding: .5rem 2rem;
+          font-weight: 500;
+        }
+
+        @include d(t) {
+          padding: .8rem 3rem;
+          font-weight: 500;
         }
       }
      }
