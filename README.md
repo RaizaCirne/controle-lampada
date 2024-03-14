@@ -59,11 +59,11 @@ https://github.com/RaizaCirne/controle-lampada/assets/109912543/59c40d46-e07a-46
 
 ## :desktop_computer: Desktop design
 
-![Design preview desktop](./assets/images/lampada-desktop.jpeg)
+![Design preview desktop](./assets/images/lampada-desktop.png)
 
 ## :iphone: Mobile design
 
-![Design preview desktop](./assets/images/lampada-mobile.jpeg)
+![Design preview desktop](./assets/images/lampada-mobile.png)
 
 <br />
 
@@ -124,4 +124,3 @@ Abrir pasta no editor de código.
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
 
 **JavaScript - GIT - SASS - CSS3 - HTML5** 🚀
-

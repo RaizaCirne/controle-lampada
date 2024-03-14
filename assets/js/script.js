@@ -12,7 +12,7 @@ function apagar() {
 function piscar() {
   let intervalo = 0; // determina a frequência que a lâmpada pisca
   let contador = 0; // Incrementa a cada laço enquanto a condição for menor que 5 
-  while(contador < 5) {
+  while(contador < 10) {
     intervalo += 250; // variável intervalo soma 250 a cada loop
     setTimeout("document.getElementById('lampada').src = 'assets/images/on.png'", intervalo);
     intervalo += 250; 
