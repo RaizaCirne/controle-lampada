@@ -38,14 +38,12 @@ Este projeto consiste na simulação do controle de uma lâmpada. A lâmpada pod
 
 - JavaScript
 - Eventos de sincronização no JS
-- Variáveis no SASS
 - Estruturas de controle
 - Document Object Model (DOM)
 - Media queries
 - Responsividade
 - SASS
 - Mixins
-- Váriaveis no SASS
 
 ## :trophy: Prosseguimento <a name="id05"></a>
 
