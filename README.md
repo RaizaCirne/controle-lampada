@@ -19,12 +19,16 @@
 
 ## 🚀 Proposta <a name="id02"></a>
 
-Este projeto consiste em....
+Este projeto consiste na simulação do controle de uma lâmpada. A lâmpada pode ser acesa, apagada ou configurada para piscar.
 <br />
 
 ## :trophy: Desafio <a name="#id03"></a>
 
-Realização de...
+- Acender: Ao clicar no botão "ON", a imagem da lâmpada é trocada pela versão acesa.
+
+- Apagar: Ao clicar no botão "OFF", a imagem da lâmpada é trocada pela versão apagada.
+
+- Piscar: Ao clicar no botão "BLINK", a lâmpada entra em modo de piscar, alternando rapidamente entre ligado e desligado por um período de tempo.
 
 ## :trophy: Aprendizado <a name="#id04"></a>
 
@@ -33,7 +37,15 @@ Realização de...
 <br />
 
 - JavaScript
-- Em construção...
+- Eventos de sincronização no JS
+- Variáveis no SASS
+- Estruturas de controle
+- Document Object Model (DOM)
+- Media queries
+- Responsividade
+- SASS
+- Mixins
+- Váriaveis no SASS
 
 ## :trophy: Prosseguimento <a name="id05"></a>
 
@@ -70,7 +82,10 @@ add video aqui...
 <br />
 
 - JavaScript
-- Em construção...
+- Git
+- SASS
+- CSS3
+- HTML5
 
 <br />
 
@@ -110,5 +125,5 @@ Abrir pasta no editor de código.
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
 
-**JavaScript - Em construção** 🚀
+**JavaScript - GIT - SASS - CSS3 - HTML5** 🚀
 
