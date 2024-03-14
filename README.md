@@ -55,7 +55,7 @@ Este projeto consiste na simulação do controle de uma lâmpada. A lâmpada pod
 
 ## :video_camera: Video
 
-add video aqui...
+https://github.com/RaizaCirne/controle-lampada/assets/109912543/59c40d46-e07a-4651-84d6-15728d9a7a1b
 
 ## :desktop_computer: Desktop design
 
