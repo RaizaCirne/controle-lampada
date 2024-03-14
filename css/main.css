@@ -18,13 +18,13 @@
   margin-top: 10rem;
   width: 18%;
 }
-* > body > form > #bt-on, * > body > form #bt-off, * > body > form #blink-blink {
+* > body > form > #acendendo, * > body > form #apagando, * > body > form #piscando {
   background-color: #fffecf;
   color: #000;
   cursor: pointer;
   font-size: 0.9rem;
   padding: 1rem 4rem;
 }
-* > body > form > #bt-on:hover, * > body > form #bt-off:hover, * > body > form #blink-blink:hover {
+* > body > form > #acendendo:hover, * > body > form #apagando:hover, * > body > form #piscando:hover {
   opacity: 0.5;
 }/*# sourceMappingURL=main.css.map */
