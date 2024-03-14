@@ -71,7 +71,7 @@ https://github.com/RaizaCirne/controle-lampada/assets/109912543/59c40d46-e07a-46
 
 <br />
 
-- Para acessar o site [Clique aqui](#)
+- Para acessar o site [Clique aqui](https://65f317609af916ef8ccd10c2--astonishing-llama-db8d68.netlify.app/)
 
 <br />
 
@@ -118,7 +118,7 @@ Abrir pasta no editor de código.
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz](#)
+- Personal Page - [Raíza Cirne Braz](https://65f317609af916ef8ccd10c2--astonishing-llama-db8d68.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
