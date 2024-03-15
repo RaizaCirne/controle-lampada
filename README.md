@@ -47,7 +47,7 @@ Este projeto consiste na simulação do controle de uma lâmpada. A lâmpada pod
 
 ## :trophy: Prosseguimento <a name="id05"></a>
 
-- Realizar projetos utilizando o React.js
+- Realizar outros projetos utilizando o React.js
 
 <br />
 
